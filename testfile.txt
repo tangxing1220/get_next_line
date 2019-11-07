@@ -1,0 +1,9 @@
+If you choose to submit this project using your library libft, it is strictly FORBIDDEN \n
+to bypass the limitation of the Norm by adding some specific functions from \n
+your get_next_line. That would be considered cheating during your defence. Your \n
+get_next_line must hold in 5 functions of 25 lines max. The respect of this \n
+instruction will be carefully checked during your defence. There is no need for \n
+you ask permission to the staff to add a function to your library. Use your head instead \n
+and ask yourself if your function respects this instruction. If you do everything right, \n
+you will of course be encouraged to expand your library with generic functions. \n
+You’ll discover their usage as you complete this project.
