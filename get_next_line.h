@@ -6,7 +6,7 @@
 /*   By: xtang <marvin@42.fr>                       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/11/06 10:57:57 by xtang             #+#    #+#             */
-/*   Updated: 2019/11/07 14:05:52 by xtang            ###   ########.fr       */
+/*   Updated: 2019/11/08 14:53:01 by xtang            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,8 @@
 # include <fcntl.h>
 # include "libft.h"
 
-# define BUFF_SIZE 8
+# define BUFF_SIZE 32 
 
 int get_next_line(const int fd, char **line);
+
 #endif
